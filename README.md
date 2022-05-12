@@ -3,8 +3,7 @@
 
 # 步骤
 
-- 直接拷贝项目：[Rayarrow/New-Word-Discovery: 新词发现 基于词频、凝聚系数和左右邻接信息熵 (github.com)](https://github.com/Rayarrow/New-Word-Discovery)
-
+- 直接拷贝项目。
 - 在命令行输入：
 
 	```python
@@ -86,7 +85,7 @@
 
 Q：如何训练自己的数据集？
 
-A：可以借鉴discover_utils.py下的get_dpcq()函数返回的documents
+A：可以借鉴discover_utils.py下的get_dpcq()函数返回的documents。
 
 Q：为什么需要进行迭代？
 
